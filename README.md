@@ -1,4 +1,6 @@
 # technical_team_projects
+## Description
+**A ROS2 system that allows the control of the car in the provided scene in CoppeliaSim using the keyboard (WASD) keys.**
 ## How to use?
 * navigate to the directory where you cloned the project
 * Open simulator
