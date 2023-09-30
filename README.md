@@ -1,2 +1,4 @@
 # technical_team_projects
-This repo holds the code for STP'24 Autonomous technical team learning plan projects.
+##How to use?
+*Open simulator
+ -navigate to the directory you cloned the project in and then go to general &rarr; ros2_and_coppelia &rarr; starter &rarr; filteration_scene.ttt
