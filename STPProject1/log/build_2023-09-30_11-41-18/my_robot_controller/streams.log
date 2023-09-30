@@ -1,0 +1,18 @@
+[0.776s] Invoking command in '/home/menna/Projects/technical_team_projects/STPProject1/build/my_robot_controller': PYTHONPATH=/home/menna/Projects/technical_team_projects/STPProject1/build/my_robot_controller/prefix_override:/home/menna/Projects/technical_team_projects/STPProject1/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/menna/Projects/technical_team_projects/STPProject1/build/my_robot_controller/build --no-deps install_data
+[1.117s] running develop
+[1.318s] running egg_info
+[1.318s] writing my_robot_controller.egg-info/PKG-INFO
+[1.318s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[1.318s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[1.319s] writing requirements to my_robot_controller.egg-info/requires.txt
+[1.319s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[1.321s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.322s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.323s] running build_ext
+[1.324s] Creating /home/menna/Projects/technical_team_projects/STPProject1/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[1.324s] Installing teleop script to /home/menna/Projects/technical_team_projects/STPProject1/install/my_robot_controller/lib/my_robot_controller
+[1.325s] 
+[1.325s] Installed /home/menna/Projects/technical_team_projects/STPProject1/build/my_robot_controller
+[1.325s] running install_data
+[1.325s] copying package.xml -> /home/menna/Projects/technical_team_projects/STPProject1/install/my_robot_controller/share/my_robot_controller
+[1.376s] Invoked command in '/home/menna/Projects/technical_team_projects/STPProject1/build/my_robot_controller' returned '0': PYTHONPATH=/home/menna/Projects/technical_team_projects/STPProject1/build/my_robot_controller/prefix_override:/home/menna/Projects/technical_team_projects/STPProject1/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/menna/Projects/technical_team_projects/STPProject1/build/my_robot_controller/build --no-deps install_data

@@ -1,0 +1,3 @@
+[console_scripts]
+teleop = my_robot_controller.tele:main
+
