@@ -9,5 +9,9 @@
   ```
    cd STPProject1
   ```
-  - source ~/.bashrc
-  - ros2 run my_robot_controller turtle_teleop
+  ```
+  source ~/.bashrc
+  ```
+  ```
+   ros2 run my_robot_controller turtle_teleop
+  ```
